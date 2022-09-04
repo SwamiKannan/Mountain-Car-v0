@@ -1,3 +1,8 @@
+This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+
+# Exercise
+Use the Q-Learning algorithm to solve the Mountain-Car-v0 environment by discretizing a continuous state space
+
 # Mountain-Car v0
 [![Watch the video](https://j.gifs.com/LZPV6v.gif)](https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/MountainCar-v0/original.mp4)
 
